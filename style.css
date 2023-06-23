@@ -5,8 +5,8 @@
 	font-style: regular; 
 	font-weight: 100; 
 	src:local('blurrysans'),
-	url(./blurrysans.woff) format('woff'),
-	url(./blurrysans.woff2) format('woff2');
+	url(./font/blurrysans.woff) format('woff'),
+	url(./font/blurrysans.woff2) format('woff2');
 	
 	
 }
